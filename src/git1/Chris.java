@@ -10,5 +10,10 @@ package git1;
  * @author ChrisJDCorporation
  */
 public class Chris {
-    
+
+    public void salutChris() {
+
+        System.out.println("Hello Chris !");
+    }
+
 }
