@@ -9,6 +9,6 @@ package git1;
  *
  * @author Mike Kara
  */
-public class Mike {
+public class Test11h54 {
     
 }
