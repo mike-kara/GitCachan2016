@@ -16,4 +16,8 @@ public class Chris {
         System.out.println("Hello Chris !");
     }
 
+    
+    
+    public void salutMike()
+    {}
 }
