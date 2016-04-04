@@ -11,4 +11,7 @@ package git1;
  */
 public class Chris {
     
+    
+    public void salutMike()
+    {}
 }
